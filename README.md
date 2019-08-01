@@ -2,7 +2,7 @@
 关于vue2的弹窗插件
 
 ## DEMO 
-[在线示例](https://chenjunhan.github.io/vue_toast_example.github.io/)
+[在线示例](https://chenjunhan.github.io/vue_toast_example.github.io?_blank)
 
 ## 下载
 ```
@@ -64,6 +64,6 @@ export default {
 如果要增加动画或者更改样式可以直接在`Toast.vue`修改即可。
 
 ## 示例代码
-[github](https://github.com/ChenJunhan/vue_toast_example.github.io/tree/master/src)
+[github](https://github.com/ChenJunhan/vue_toast_example.github.io/tree/master/src?_blank)
 
 
